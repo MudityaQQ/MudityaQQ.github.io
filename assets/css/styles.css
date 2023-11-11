@@ -1,0 +1,25 @@
+nav {
+    background-color: #f0f0f0; /* Light grey background */
+    color: #333; /* Darker text for better contrast */
+}
+body {
+    background-color: #fff; /* White background */
+    color: #333; /* Dark grey text */
+}
+.container {
+    background-color: #f9f9f9; /* Very light grey */
+    color: #333;
+}
+a {
+    color: #0066cc; /* Blue color for links */
+}
+button {
+    background-color: #0066cc; /* Blue background for buttons */
+    color: #fff; /* White text */
+}
+.navbar, .card, img {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Adding subtle shadow */
+}
+body {
+    font-family: 'Arial', sans-serif; /* Example font */
+}
